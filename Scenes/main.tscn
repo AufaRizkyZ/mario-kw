@@ -1,6 +1,9 @@
-[gd_scene format=3 uid="uid://cvfc2gcfs1u30"]
+[gd_scene load_steps=2 format=3 uid="uid://cvfc2gcfs1u30"]
+
+[ext_resource type="Script" uid="uid://d4b4waad00hpc" path="res://Scripts/main_menu.gd" id="1_jjgbg"]
 
 [node name="Main" type="Node2D"]
+script = ExtResource("1_jjgbg")
 
 [node name="Start" type="Button" parent="."]
 offset_left = 493.0
@@ -9,7 +12,7 @@ offset_right = 658.0
 offset_bottom = 284.0
 text = "Start"
 
-[node name="Button" type="Button" parent="."]
+[node name="Exit" type="Button" parent="."]
 offset_left = 493.0
 offset_top = 333.0
 offset_right = 658.0
