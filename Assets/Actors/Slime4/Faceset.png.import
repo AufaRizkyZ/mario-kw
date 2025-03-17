@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bq128p2hty2dp"
-path="res://.godot/imported/Special2.png-64767ff5f1f9fd838f37d59de3d4a898.ctex"
+uid="uid://xi66djokdbep"
+path="res://.godot/imported/Faceset.png-83e8d778d8d4823b874e245635b7bd41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Boy/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-64767ff5f1f9fd838f37d59de3d4a898.ctex"]
+source_file="res://Assets/Actors/Slime4/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-83e8d778d8d4823b874e245635b7bd41.ctex"]
 
 [params]
 

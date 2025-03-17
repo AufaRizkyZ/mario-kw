@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bcy1kcel1ssnp"
-path="res://.godot/imported/Item.png-a80cf6ad771efb89b59611c02af71834.ctex"
+uid="uid://csb1q4oiwny8"
+path="res://.godot/imported/Slime4.png-1b707ace0ae012b722229f0e54a4af8b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Boy/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-a80cf6ad771efb89b59611c02af71834.ctex"]
+source_file="res://Assets/Actors/Slime4/Slime4.png"
+dest_files=["res://.godot/imported/Slime4.png-1b707ace0ae012b722229f0e54a4af8b.ctex"]
 
 [params]
 

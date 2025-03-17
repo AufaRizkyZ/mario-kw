@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://csb1q4oiwny8"
-path="res://.godot/imported/Slime4.png-9d44cdb1be3dd636fbf563674198b4e8.ctex"
+uid="uid://cls7yduy8coid"
+path="res://.godot/imported/Faceset.png-dbb1f8dac778b9afafb6066c1206539c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slime4/Slime4.png"
-dest_files=["res://.godot/imported/Slime4.png-9d44cdb1be3dd636fbf563674198b4e8.ctex"]
+source_file="res://Assets/Actors/Boy/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-dbb1f8dac778b9afafb6066c1206539c.ctex"]
 
 [params]
 
