@@ -19,7 +19,7 @@ func _physics_process(delta):
 	var direction = Input.get_axis("ui_left", "ui_right")
 	
 	# Animation handler
-	if direction != 0 && velocity.x != 0:
+	if direction != 0 && velocity.x != 0 && is_on_floor():
 		playerAnimatedSprite.play("Walk")
 	else:
 		playerAnimatedSprite.stop()
