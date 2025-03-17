@@ -36,7 +36,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"Walk",
-"speed": 5.0
+"speed": 8.0
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_v0iea"]
@@ -49,7 +49,7 @@ script = ExtResource("1_cvnsp")
 position = Vector2(0, -8)
 sprite_frames = SubResource("SpriteFrames_x3wgy")
 animation = &"Walk"
-frame_progress = 0.778206
+frame_progress = 0.464712
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -6.5)
