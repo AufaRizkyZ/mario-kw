@@ -1,3 +1,9 @@
 [gd_scene format=3 uid="uid://cxho58ik73vb2"]
 
 [node name="Level1" type="Node2D"]
+
+[node name="WorldTile" type="TileMapLayer" parent="."]
+
+[node name="Ground" type="TileMapLayer" parent="WorldTile"]
+
+[node name="Environment" type="TileMapLayer" parent="WorldTile"]
