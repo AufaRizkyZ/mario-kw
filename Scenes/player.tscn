@@ -45,6 +45,10 @@ size = Vector2(10, 13)
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_cvnsp")
 
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(0, -9)
+zoom = Vector2(4, 4)
+
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(0, -8)
 sprite_frames = SubResource("SpriteFrames_x3wgy")
